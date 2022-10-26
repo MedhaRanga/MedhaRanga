@@ -1,6 +1,4 @@
 - Hi 👋, I’m Medha
-- 👀 I’m an aspiring Data Scientist
-- 🌱 I'm currently learning Python, SQL and Machine Learning algorithms.
 
   [![HitCount](https://hits.dwyl.com/MedhaRanga/README.me.svg?style=flat-square)](http://hits.dwyl.com/MedhaRanga/README.me)
 
